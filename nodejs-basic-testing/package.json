@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-basic-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest --globals"
+  },
+  "keywords": [],
+  "author": "ciamac-da",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "vitest": "^0.9.4"
+  }
+}
